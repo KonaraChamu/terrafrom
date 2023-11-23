@@ -7,5 +7,5 @@
 3. Exécution de  ```terraform apply ```
 4. Exécution de  ```terraform destroy ```
 
-#problems faced
+# problems faced
 1. Was diffuclt to setup the network configuration for the security group
