@@ -1,8 +1,8 @@
 # hello_terraform
-1. create an aws account
-2. Installed and configured aws cli
-3. Installed Terrafrom
-4. Create terrafrom file ```main.tf```
+1. créer un compte AWS
+2. AWS CLI installé et configuré
+3. Installer Terraform
+4. Créer un fichier Terraform ```main.tf```
 
 # running
 1. Exécution de  ```terraform init``` 
